@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaySteinhoff
 - 👀 I’m interested in Unity, C#, C++, C and Software development.
-- 🌱 I’m currently learning Allegro5 and making an easier to use add on
+- 🌱 I’m currently learning Allegro5 and making an add on for easier use by beginners
 - 💞️ I’m looking to collaborate on my current project on Allegro5
 - 📫 How to reach me kay.steinhoff@web.de
