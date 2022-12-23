@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaySteinhoff
 - 👀 I’m interested in Unity, C#, C++, C and Software development.
-- 🌱 I’m currently learning Allegro5 and making an add on for easier use by beginners
-- 💞️ I’m looking to collaborate on my current project on Allegro5
-- 📫 How to reach me kay.steinhoff@web.de
+- 🌱 I'm working on a 3D engine(?) for Chrome OS. Any outside improvements are welcome, especially in these early stages of development with a lot of clean-up and simplification work due.
+- 💞️ I’m looking to collaborate on my current Project for anyone interested in a little challange, as not only functionality, but also performance is important on these rather not so powerfull machines.
+- 📫 How to reach me: kay.steinhoff@web.de
