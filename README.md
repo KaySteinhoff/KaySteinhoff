@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KaySteinhoff
 - 👀 I’m interested in Unity, C#, C++, C and Software development.
 - 🌱 I'm working on a lot of things rn. Nothing particular
-- 💞️ I’m looking to collaborate on my current Project for anyone interested in a little challange, as not only functionality, but also performance is important on these rather not so powerfull machines.
 - 📫 How to reach me: kay.steinhoff@web.de
