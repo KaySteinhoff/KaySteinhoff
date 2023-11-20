@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KaySteinhoff
 - 👀 I’m interested in Unity, C#, C++, C and Software development.
 - 🌱 I'm working on a lot of things rn. Nothing particular
-- 📫 How to reach me: kay.steinhoff@web.de
+- 📫 How to reach me: kaysteinhoff@outlook.com
